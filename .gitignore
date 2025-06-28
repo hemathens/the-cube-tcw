@@ -6,3 +6,4 @@ dist/
 
 # OS cruft
 .DS_Store
+.vercel
