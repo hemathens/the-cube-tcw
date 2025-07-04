@@ -1,5 +1,5 @@
 <!-- Badges: build your brand at the top -->
-[![GitHub stars](https://img.shields.io/github/stars/hemathens/kaggle-projects?style=social)](https://github.com/hemathens/the-cube-tcw/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/hemathens/the-cube-tcw?style=social)](https://github.com/hemathens/the-cube-tcw/stargazers)
 [![Kaggle Profile](https://img.shields.io/badge/Kaggle-hem%20ajit%20patel-20BEFF?logo=kaggle)](https://www.kaggle.com/hemajitpatel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hem%20Ajit%20Patel-0A66C2?logo=linkedin)](https://www.linkedin.com/in/hem-patel19)
 [![GitHub](https://img.shields.io/badge/GitHub-hemathens-181717?logo=github)](https://github.com/hemathens)
